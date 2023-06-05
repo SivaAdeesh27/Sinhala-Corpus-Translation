@@ -19,7 +19,7 @@ This repository contains code for the automation of web scraping and translation
      
 2. Install the required dependencies:
     ```bash
-   pip install -r requirements.txt
+   pip install -r Requirements.txt
    
 ## Usage
 
