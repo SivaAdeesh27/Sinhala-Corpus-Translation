@@ -15,7 +15,7 @@ This repository contains code for the automation of web scraping and translation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sinhala-web-scraping-translator.git
+   git clone https://github.com/SivaAdeesh27/Sinhala-Corpus-Translation.git
      
 2. Install the required dependencies:
     ```bash
